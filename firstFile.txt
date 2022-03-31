@@ -1,1 +1,1 @@
-Gonna practice making a branch with git. 
+Gonna practice making a branch with git. So here is my addition in the new branch. 
